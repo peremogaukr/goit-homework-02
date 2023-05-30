@@ -41,7 +41,10 @@ color: #2e2f42;
     list-style: none;
 }
 
-.header-studio:hover,
+.header-studio:hover {
+ color: #404bbf;
+}
+
 .header-studio:focus {
  color: #404bbf;
 }
@@ -85,7 +88,10 @@ color: #FFFFFF;
 cursor: pointer;
 }
 
-.section-one-button:hover,
+.section-one-button:hover {
+    background-color: #404BBF;
+}
+
 .section-one-button:focus {
     background-color: #404BBF;
 }
