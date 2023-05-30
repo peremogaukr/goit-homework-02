@@ -208,7 +208,13 @@ color: #434455;
     font-style: normal;
 }
 
+.section-two-p:hover {
+    color: #404bbf;
+}
 
+.section-two-p:focus {
+    color: #404bbf;
+}
 
 
 
