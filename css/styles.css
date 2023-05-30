@@ -64,7 +64,10 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-.mail-tel-list:hover,
+.mail-tel-list:hover {
+color: #404BBF;
+}
+
 .mail-tel-list:focus {
 color: #404bbf;
 }
@@ -167,7 +170,11 @@ background-color: #F4F4FD;
 cursor: pointer;
 }
 
-.buttons:hover,
+.buttons:hover {
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
+
 .buttons:focus {
     color: #FFFFFF;
     background-color: #404BBF;
@@ -188,7 +195,9 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-
+.portfolio-address {
+    font-style: normal;
+}
 
 
 
