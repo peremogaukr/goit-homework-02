@@ -24,7 +24,7 @@ text-transform: uppercase;
 color: #4d5ae5;
 }
 
-.header-logo span{
+.span-header {
 color: #2e2f42;
 }
 
@@ -116,6 +116,10 @@ color: #2e2f42;
 
 .section-four {
     background-color: #F4F4FD;
+}
+
+.list-background {
+    background-color: #FFFFFF;
 }
 
 .footer {
