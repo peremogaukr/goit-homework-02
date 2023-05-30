@@ -1,10 +1,10 @@
 :root {
---main-color: #FFFFFF;
---main-color: #2e2f42;
---main-color: #404bbf;
---main-color: #434455;
---main-color: #f4f4fd;
---main-color: #4D5AE5;
+--background-color: #FFFFFF;
+--logo-color: #2e2f42;
+--nav-color: #404bbf;
+--p-color: #434455;
+--section-color: #f4f4fd;
+--logo-color: #4D5AE5;
 }
 
 
@@ -42,7 +42,7 @@ font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-text-transform: uppercase;
+
 color: #2e2f42;
 }
 
@@ -154,7 +154,6 @@ font-weight: 800;
 font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
-text-transform: uppercase;
 color: #4d5ae5;
 }
 
