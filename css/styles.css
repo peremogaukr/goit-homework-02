@@ -318,8 +318,7 @@ color: #434455;
 }
 
 .members-container {
-    padding-top: 32px;
-    padding-bottom: 32px;
+    padding: 32px 16px;
 }
 
 .section-portfolio {
@@ -327,13 +326,30 @@ color: #434455;
     padding-bottom: 120px;
 }
 
-.ul-content-portfolio {
+.ul-content-portfolio-but {
+    display: flex;
+    gap: 24px;
     justify-content: center;
     margin-bottom: 72px;
 }
 
+.ul-content-portfolio-photo {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
+}
 
+.li-content {
+    width: calc((100% - 48px) / 3);
+}
 
+.li-content-div {
+    padding: 32px 16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
+}
 
-
-
+.main-title {
+    margin-bottom: 8px;
+}
